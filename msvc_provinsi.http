@@ -1,0 +1,6 @@
+@msvc_provinsi_HostAddress = http://localhost:5136
+
+GET {{msvc_provinsi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

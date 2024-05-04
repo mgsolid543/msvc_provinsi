@@ -110,15 +110,6 @@ msbuild.wrn
 .idea/.idea.msvc_provinsi.dir/.idea/misc.xml
 .idea/.idea.msvc_provinsi.dir/.idea/vcs.xml
 .idea/.idea.msvc_provinsi.dir/riderModule.iml
-Controllers/
-Models/
-Program.cs
-Properties/
-Schema/
-Startup.cs
-appsettings.Development.json
-appsettings.json
+
 bin/
-msvc_provinsi.csproj
-msvc_provinsi.http
 obj/
